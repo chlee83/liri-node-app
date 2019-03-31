@@ -18,10 +18,13 @@ An example would be: _node liri.js movie-this lion king_
 
 Here are some images of LIRI in action
 
+This first screenshot shows the first three commands working with its results
 ![GitHub Logo](/images/Screenshot10.png)
 
+This second screenshot shows the last command "do-what-it-says" 
 ![GitHub Logo](/images/Screenshot11.png)
 
+This third screenshot shows each command I inputted previously were all logged into a log.txt file
 ![GitHub Logo](/images/Screenshot12.png)
 
 
