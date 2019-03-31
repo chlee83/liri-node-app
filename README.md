@@ -19,13 +19,10 @@ An example would be: _node liri.js movie-this lion king_
 Here are some images of LIRI in action
 
 ![GitHub Logo](/images/Screenshot10.png)
-Format: ![Alt Text](url)
 
 ![GitHub Logo](/images/Screenshot11.png)
-Format: ![Alt Text](url)
 
 ![GitHub Logo](/images/Screenshot12.png)
-Format: ![Alt Text](url)
 
 
 Enjoy!
