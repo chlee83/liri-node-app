@@ -16,4 +16,16 @@ LIRI is able to take in 4 types of commands:
 After each of the commands (except do-what-it-says), you have to input the item you want LIRI to search for.
 An example would be: _node liri.js movie-this lion king_
 
+Here are some images of LIRI in action
+
+![GitHub Logo](/images/Screenshot10.png)
+Format: ![Alt Text](url)
+
+![GitHub Logo](/images/Screenshot11.png)
+Format: ![Alt Text](url)
+
+![GitHub Logo](/images/Screenshot12.png)
+Format: ![Alt Text](url)
+
+
 Enjoy!

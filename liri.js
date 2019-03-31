@@ -85,8 +85,6 @@ function spotifyFunc(nameOfItem) {
 }
 
 
-
-
 /************movie-this code*******************/
 function movieFunc() {
 
@@ -113,8 +111,6 @@ function movieFunc() {
     });
 
 }
-
-
 
 
 /**************** do-what-it-says code *************************/
